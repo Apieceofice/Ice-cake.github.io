@@ -4,6 +4,32 @@
   
   
   <entry>
+    <title>HTML5+CSS3</title>
+    <link href="/2023/12/06/HTML5-CSS3/"/>
+    <url>/2023/12/06/HTML5-CSS3/</url>
+    
+    <content type="html"><![CDATA[<h2>HTML5+CSS3入门教程 <br/><a href="https://www.w3school.com.cn/"> 跳转地址 <a/>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>post</title>
+    <link href="/2023/11/28/post/"/>
+    <url>/2023/11/28/post/</url>
+    
+    <content type="html"><![CDATA[<h2 id="文章-Post-，页面-Page-和草稿-Draft"><a href="#文章-Post-，页面-Page-和草稿-Draft" class="headerlink" title="文章(Post)，页面(Page)和草稿(Draft)"></a>文章(Post)，页面(Page)和草稿(Draft)</h2><ul><li>新建文章 需要执行 “hexo new post (文章的标题)”</li><li>新建页面 “hexo new page aaa”其中【aaa】就是页面（page）的名称</li><li>创建草稿 “hexo new draft aaa”其中【aaa】就是草稿名，虽然Hexo不会编译&#x2F;source&#x2F;_drafts下的文件，但是Hexo提供了一个预览的方法，就是：”hexo s –draft”</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/11/28/hello-world/"/>
     <url>/2023/11/28/hello-world/</url>
